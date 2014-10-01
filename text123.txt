@@ -1,0 +1,15 @@
+git運用testファイル
+
+class test{
+	void	test(){
+
+		intger a=0;
+
+		if( a > 0 ){
+		}
+		else{
+		}
+
+	}
+/* あああああ */
+}
