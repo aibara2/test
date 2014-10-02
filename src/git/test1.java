@@ -4,10 +4,11 @@ import java.*;
 
 public class test1 {
 
-	int   abc;
-	abc=0;
+	static String str="あいうえお";
+	static int a=0;
 
-	public void main(){
-		System.out.println(abc);
+	public static  void main(){
+		System.out.println(str+a);
 	}
+
 }
